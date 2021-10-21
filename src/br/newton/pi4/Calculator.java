@@ -10,6 +10,6 @@ public class Calculator {
         
         var calc = new Calculator();
 
-        System.out.println("Resultado: " + calc.sum(3, 4)); // 7
+        System.out.println("Resultado 2: " + calc.sum(3, 4)); // 7
     }
 }
