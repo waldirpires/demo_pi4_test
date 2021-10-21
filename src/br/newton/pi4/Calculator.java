@@ -1,6 +1,9 @@
 package br.newton.pi4;
 
-public class Calculator {
+public class Calculadora {
+
+    public int subtract(int a, int b) {
+        return a - b;
 
     public int sum(int a, int b){
         return a + b;
